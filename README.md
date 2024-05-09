@@ -2,4 +2,4 @@
 Projeto Dashboard de Mídias
 
 # instalar dependências
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`# linkedin-dashboard
